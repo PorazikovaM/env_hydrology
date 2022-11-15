@@ -1,4 +1,12 @@
 ##### 
+
+
+
+#should I delete something?
+
+
+
+
 if (as.numeric(x = R.Version()$minor) < 2.2) {
   
   if (!require(installr)) {
